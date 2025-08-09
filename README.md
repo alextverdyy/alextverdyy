@@ -1,19 +1,19 @@
-<!-- Banner / Header -->
+<!-- Dynamic Typing Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Oleg%20Tverdyy%20Tereshchenko&fontSize=30&fontAlignY=35&desc=Senior%20iOS%20Developer%20%7C%20Maker%20%7C%20Open%20Source%20Enthusiast&descAlignY=55" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Oleg+Tverdyy+Tereshchenko;Senior+iOS+Developer+%7C+Maker+%7C+Open+Source+Fan;Swift+%7C+SwiftUI+%7C+Combine+%7C+Concurrency;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Go" alt="Typing SVG" />
 </p>
 
-<!-- Intro -->
-## 👋 Hi there
+---
 
-I'm **Oleg Tverdyy Tereshchenko**, a **Senior iOS Developer** with over 8 years of experience building high-performance native apps.  
-I'm passionate about **Swift**, **clean architectures**, and anything that makes code *beautiful and fast*.  
-When I'm not coding for iOS, you’ll find me tinkering with **3D printing**, **keyboard firmware (QMK/ZMK)**, and automation projects.
+## 👋 About Me
 
-- 📍 Based in **Andalusia, Spain**
-- 💼 Currently at **Open Digital Services**
-- 🤝 Open to collaboration on interesting open-source projects
-- ☕ Fueled by coffee & curiosity
+I'm **Oleg Tverdyy Tereshchenko**, a **Senior iOS Developer** with 8+ years of experience crafting high-performance native apps.  
+Passionate about **Swift**, clean architectures, and exploring new ways to merge **software + hardware**.  
+
+- 📍 Based in **Andalusia, Spain**  
+- 💼 Currently at **Open Digital Services**  
+- 🤝 Open to open-source collaboration  
+- ☕ Powered by coffee and curiosity  
 
 ---
 
@@ -39,26 +39,18 @@ When I'm not coding for iOS, you’ll find me tinkering with **3D printing**, **
 
 ---
 
-## 🛠 Skills & Tools
-- **iOS Development**: Swift · SwiftUI · Combine · Concurrency · Objective-C
-- **Cross-Platform**: Ionic · React Native
-- **Maker Projects**: Klipper · QMK/ZMK · 3D printing
-- **Toolbox**: Xcode · VS Code · Git · Figma · Bash · Docker
-
----
-
 ## 🚀 Featured Projects
 
 <a href="https://github.com/alextverdyy/SMS_Web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alextverdyy&repo=SMS_Web&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alextverdyy&repo=SMS_Web&theme=radical" />
 </a>
 <a href="https://github.com/alextverdyy/keymap-viewer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alextverdyy&repo=keymap-viewer&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alextverdyy&repo=keymap-viewer&theme=radical" />
 </a>
 
 ---
 
-## 📫 How to reach me
+## 📫 Let's Connect
 <p>
   <a href="mailto:alextverdyy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/oleg-tverdyy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -69,12 +61,6 @@ When I'm not coding for iOS, you’ll find me tinkering with **3D printing**, **
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alextverdyy&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alextverdyy&theme=tokyonight" height="160" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alextverdyy&show_icons=true&theme=radical&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alextverdyy&theme=radical" height="160" />
 </p>
