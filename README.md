@@ -35,7 +35,7 @@ Senior iOS developer at [Open Digital Services](https://opendigitalservices.com/
 
 ## Open source
 
-Recent work includes contributions to [Serval](https://github.com/dderg/serval), motion-control firmware for 3D printers, and [SM Tap Dance](https://github.com/stasmarkin/sm_td), a QMK tap-dance library.
+I contribute to open source when I find something worth fixing.
 
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextverdyy&theme=github_dark" alt="GitHub stats" />
