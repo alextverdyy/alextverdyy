@@ -33,9 +33,7 @@ Senior iOS developer at [Open Digital Services](https://opendigitalservices.com/
   <img src="https://img.shields.io/badge/ZMK-6B7280?style=flat-square" alt="ZMK" />
 </p>
 
-## Open source
-
-I contribute to open source when I find something worth fixing.
+## GitHub activity
 
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextverdyy&theme=github_dark" alt="GitHub stats" />
